@@ -30,7 +30,7 @@ Pravoznavets_Team. The team was established on the basis of the "Pravoznavets" r
 Як запустити.
 
 Потрібен Python 3 з модулем tkinter. Графіка малюється кодом, зовнішні файли не потрібні.
-git clone 
+git clone https://github.com/bogdanBssVol/Pravoznavets_Team 
 cd [ПАПКА РЕПОЗИТОРІЮ]
 python sim_newfile.py
 Звук (необов'язково). pip install pygame. Без pygame гра працює без звуку. Ефекти та мелодія генеруються кодом. Якщо є файл music/ambient.ogg, гра відтворює його замість згенерованої мелодії.
