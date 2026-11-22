@@ -34,7 +34,7 @@ Pravoznavets_Team. The team was established on the basis of the "Pravoznavets" r
 
 Потрібен Python 3 з модулем tkinter. Графіка малюється кодом, зовнішні файли не потрібні.
 git clone https://github.com/bogdanBssVol/Pravoznavets_Team 
-cd [ПАПКА РЕПОЗИТОРІЮ]
+cd Pravoznavets_Team 
 python sim_newfile.py
 Звук (необов'язково). pip install pygame. Без pygame гра працює без звуку. Ефекти та мелодія генеруються кодом. Якщо є файл music/ambient.ogg, гра відтворює його замість згенерованої мелодії.
 Linux. Якщо tkinter відсутній: sudo apt install python3-tk.
@@ -66,7 +66,7 @@ world зберігає підсумки попередніх історій дл
 ai.md: використання ШІ: інструменти, власні рішення команди, відкинуті варіанти.
 scenarios.md: короткий опис сценаріїв і логіки оцінювання (таблиця / карта рішень).
 scenarios.json: сценарії в машиночитаному форматі з посиланнями на джерела, окремо від коду.
-[ДОДАЙТЕ ІНШІ ДОКУМЕНТИ з розділу «Очікуваний формат кінцевого продукту»: файл або розділ кожного пункту]
+
 
 Що використали
 Мова і графіка: Python 3, tkinter (Canvas), піксель-спрайти, намальовані кодом.
